@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431910067888",
+    "project_id": "chat-excell",
+    "storage_bucket": "chat-excell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431910067888:android:89ea370c63d45cb9c0e575",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431910067888-gqgi6la46l9lk2ofu77ddf9k0vu54voa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chat",
+            "certificate_hash": "f072c93f66f84a9a72db800f41a192c4ed956f84"
+          }
+        },
+        {
+          "client_id": "431910067888-1s020v8bo29qa8u1otmrcdo65t89rsn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBpRp4au0VuADL9Bq9JNaTZz7K9bymA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431910067888-1s020v8bo29qa8u1otmrcdo65t89rsn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
